@@ -1,0 +1,17 @@
+{
+  "name": "Kwahu Government Hospital",
+  "short_name": "Kwahu Hospital",
+  "description": "Official website of Kwahu Government Hospital, Atibie, Eastern Region, Ghana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ea",
+  "theme_color": "#1d4b38",
+  "icons": [
+    {
+      "src": "/hospital-logo.jpg",
+      "sizes": "720x720",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
